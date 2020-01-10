@@ -13,4 +13,4 @@ Then go on to youtube to get the video whose comments you want to automate.
 Then count think of how many times you need to scroll to get the required no. of comments
 enter that to the no. of clicks and Boom ! youre ready to get the Comments.
 Now this is all that you need to get the dataset of comments
-![](https://drive.google.com/file/d/1yFw8R_i0psa3qYIePWGwGQj0ZUQodmzq/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=1yFw8R_i0psa3qYIePWGwGQj0ZUQodmzq)
